@@ -1,0 +1,5 @@
+﻿  MLP2 Casey Hillstrom.cpp
+C:\Users\hills\source\repos\MLP2\MLP2\MLP2 Casey Hillstrom.cpp(14,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hills\source\repos\MLP2\MLP2\MLP2 Casey Hillstrom.cpp(67,12): error C2062: type 'double' unexpected
+C:\Users\hills\source\repos\MLP2\MLP2\MLP2 Casey Hillstrom.cpp(68,21): error C2065: 'x': undeclared identifier
+C:\Users\hills\source\repos\MLP2\MLP2\MLP2 Casey Hillstrom.cpp(69,26): error C2065: 'x': undeclared identifier
